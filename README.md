@@ -43,11 +43,7 @@ Este projeto visa desenvolver um bot para o Discord que envia automaticamente no
 
 5. Execute o bot:
 
-    - No Visual Studio, pressione `F5` ou clique em `Run`.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e correções.
+    - No Visual Studio, pressione abra o terminal e passe o comando "dotnet run"
 
 ## Contato
 
